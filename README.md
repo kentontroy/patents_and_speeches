@@ -3,6 +3,7 @@
 <img src="./images/ai-meetup-nyc-logo.png"/><br>
 <img src="./images/ai-meetup-nyc-abstract.png"/><br>
 <img src="./images/ai-meetup-nyc-teaching.png"/><br>
+<img src="./images/ai-meetup-arlington.png"/><br>
 
 ## Open Data Science Conferences
 
