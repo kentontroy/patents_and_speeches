@@ -1,7 +1,7 @@
 ## Generative AI Meetups
 
-<img src="./images/ai-meetup-nyc-abstract.png"/><br>
 <img src="./images/ai-meetup-nyc-logo.png"/><br>
+<img src="./images/ai-meetup-nyc-abstract.png"/><br>
 <img src="./images/ai-meetup-nyc-teaching.png"/><br>
 
 ## Open Data Science Conferences
@@ -14,6 +14,7 @@
 <img src="./images/patent_1.png" ref="./patents/US7814075.pdf"/><br>
 <img src="./images/patent_2.png" ref="./patents/US6260062.pdf"/><br>
 
+## Big Data Speeches
 <img src="./images/speech_oracle_openworld_1.png" ref="./speeches/Security_Readiness_for_Deployment_of_Key_Financial_Applications_in_Hadoop_2.pdf"/><br>
 <img src="./images/speech_oracle_openworld_2.png" alt="./speeches/CON4437_Davis-Enterprise_Virtualization_with_OVCA_CON4437.pdf"/><br>
 <img src="./images/speech_oracle_collab.png" alt="./speeches/collab14_kenton_troy_davis.pdf"/><br>
