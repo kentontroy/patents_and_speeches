@@ -7,7 +7,7 @@
 
 ## Open Data Science Conferences
 
-[Public link]([https://link-url-here.org](https://odsc.com/speakers/predicting-the-next-nba-champion-with-clouderas-applied-ml-prototypes-amps/))
+[Public link](https://odsc.com/speakers/predicting-the-next-nba-champion-with-clouderas-applied-ml-prototypes-amps/)
 <img src="./images/speech_odsc_boston_2022.png" ref="https://github.com/kentontroy/odsc_conference_demo_2022"/><br>
 <img src="./images/speech_odsc_sanfran_2023.png" ref="[https://github.com/kentontroy/neo4j_game_of_thrones"/><br>
 
